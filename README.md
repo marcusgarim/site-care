@@ -1,19 +1,22 @@
 # Care Intelligence Website
 
-Este projeto contém os arquivos do site **Care Intelligence**, organizados em uma estrutura de projeto limpa.
+Este projeto contém os arquivos do site **Care Intelligence**, organizados em uma estrutura modular e otimizada.
 
-## Estrutura
+## Estrutura do Projeto
 
 ```
 care-intelligence-website/
 ├── index.html
 ├── assets/
-│   └── images/
-├── css/
-│   ├── animate.min.css
-│   ├── frontend.min.css
-│   └── polylang.min.css
-├── js/
-│   └── bricks.min.js
-└── README.md
-```# site-care
+│   ├── images/
+│   ├── css/
+│   │   ├── styles.css
+│   │   └── polylang.min.css
+│   └── js/
+│       └── main.js
+├── README.md
+```
+
+## Descrição
+
+O site **Care Intelligence** é uma plataforma de IA adaptável e escalável, projetada para transformar dados em decisões estratégicas e seguras. Este repositório contém os arquivos necessários para sua implementação e manutenção do Front-end do site.
