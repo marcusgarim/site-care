@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "../components/ui/button";
+import { Button } from "../../components/ui/button";
 import { ApplicationSection } from "./sections/ApplicationSection";
 import { CaseStudiesSection } from "./sections/CaseStudiesSection";
 import { FeatureSection } from "./sections/FeatureSection";
